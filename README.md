@@ -1,81 +1,99 @@
 <div align="center">
 
-# Ahmed Khaled Hussein
+<!-- Premium visual identity. All artwork is stored in this repository. -->
+<img src="assets/hero-banner.png" alt="Ahmed Khaled Hussein — المهندس أحمد خالد حسين — Software Engineer, Full-Stack Developer and AI / Computer Vision" width="100%" />
 
-### المهندس أحمد خالد حسين
+<br/>
+<br/>
 
-**Software Engineer · Full-Stack Developer · AI & Computer Vision**
+<a href="https://ahmedkhaledhussein.vercel.app"><img src="assets/cta-portfolio.png" alt="Visit Portfolio" width="23%" /></a>
+<a href="https://www.linkedin.com/in/ahmedkhaledhussein/"><img src="assets/cta-linkedin.png" alt="Connect on LinkedIn" width="23%" /></a>
+<a href="mailto:Ahmed.khaaledh@gmail.com"><img src="assets/cta-email.png" alt="Send Email" width="23%" /></a>
+<a href="https://wa.me/201043263308"><img src="assets/cta-whatsapp.png" alt="Open WhatsApp Chat" width="23%" /></a>
 
-*Building intelligent digital products — from concept to experience.*
+<br/>
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT%20WEBSITE-C8A56B?style=for-the-badge&labelColor=15191F)](https://ahmedkhaledhussein.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-C8A56B?style=for-the-badge&labelColor=15191F)](https://www.linkedin.com/in/ahmedkhaledhussein/)
-[![Email](https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-C8A56B?style=for-the-badge&labelColor=15191F)](mailto:Ahmed.khaaledh@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-LET'S%20TALK-C8A56B?style=for-the-badge&labelColor=15191F)](https://wa.me/201043263308)
+**Software Engineering** &nbsp;·&nbsp; **Full-Stack Development** &nbsp;·&nbsp; **AI & Computer Vision**
+
+<sub>Cairo, Egypt &nbsp; · &nbsp; Computer Science · Arab Open University</sub>
 
 </div>
 
 ---
 
-## About me | نبذة عني
+## 01 / About me &nbsp; | &nbsp; نبذة عني
 
-I'm **Ahmed Khaled Hussein (أحمد خالد حسين)**, a software engineer and full-stack developer based in **Cairo, Egypt**, studying **Computer Science at Arab Open University**.
+I'm **Ahmed Khaled Hussein (أحمد خالد حسين)**, a software engineer and full-stack developer based in Cairo, Egypt, studying Computer Science at Arab Open University.
 
-I enjoy bringing together **software engineering, artificial intelligence, computer vision, and thoughtful UI/UX** to create practical digital experiences. I work across the product lifecycle, from the interface and backend to integration and deployment.
+I build **thoughtful digital products** by connecting robust software engineering with clear user experience. My interests span **full-stack systems, practical AI, and computer vision** — from the first idea to a product people can use.
 
-أنا **أحمد خالد حسين**، مهندس برمجيات ومطور تطبيقات ويب متكاملة. أهتم بتطوير حلول رقمية تجمع بين **الذكاء الاصطناعي والرؤية الحاسوبية وتطوير البرمجيات وتصميم تجربة المستخدم**.
-
-## What I build
-
-- **Full-stack web applications** — interfaces, APIs, dashboards, and responsive experiences.
-- **AI & computer vision** — object detection, tracking, and applied machine-learning concepts.
-- **Product-focused UI/UX** — clear interfaces, interaction design, and accessibility-minded details.
-
-## Tech stack
+**أنا أحمد خالد حسين**، مهندس برمجيات ومطور تطبيقات ويب متكاملة. أدرس علوم الحاسب بالجامعة العربية المفتوحة، وأهتم ببناء حلول رقمية عملية تجمع بين تطوير البرمجيات والذكاء الاصطناعي والرؤية الحاسوبية وتجربة المستخدم.
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-15191F?style=flat-square&logo=typescript&logoColor=C8A56B)
-![JavaScript](https://img.shields.io/badge/JavaScript-15191F?style=flat-square&logo=javascript&logoColor=C8A56B)
-![React](https://img.shields.io/badge/React-15191F?style=flat-square&logo=react&logoColor=C8A56B)
-![Next.js](https://img.shields.io/badge/Next.js-15191F?style=flat-square&logo=nextdotjs&logoColor=C8A56B)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-15191F?style=flat-square&logo=tailwindcss&logoColor=C8A56B)
-![Python](https://img.shields.io/badge/Python-15191F?style=flat-square&logo=python&logoColor=C8A56B)
-![FastAPI](https://img.shields.io/badge/FastAPI-15191F?style=flat-square&logo=fastapi&logoColor=C8A56B)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15191F?style=flat-square&logo=postgresql&logoColor=C8A56B)
-![OpenCV](https://img.shields.io/badge/OpenCV-15191F?style=flat-square&logo=opencv&logoColor=C8A56B)
-![Git](https://img.shields.io/badge/Git-15191F?style=flat-square&logo=git&logoColor=C8A56B)
+<img src="assets/arabic-manifesto.png" alt="من الفكرة إلى تجربة رقمية متكاملة — Thmanyah Arabic serif design" width="100%" />
 
 </div>
 
-## Selected projects
+---
 
-| Project | What it does | Explore |
-| --- | --- | --- |
-| **Neural Vision Suite** | Computer-vision concept combining detection, tracking, and analytics in one interface. | [Portfolio](https://ahmedkhaledhussein.vercel.app/#work) |
-| **BRGHR** | Interactive restaurant website and ordering experience. | [Live website](https://brghr.vercel.app) |
-| **AOU Study Planner** | Study planning and academic progress tracking for computer science students. | [Live website](https://aou-planner.vercel.app) |
-| **Scented Realms** | Interactive e-commerce experience for a fragrance brand. | [Live website](https://scented-realms.vercel.app) |
-| **Personal Portfolio** | Bilingual, responsive portfolio with interactive project presentations. | [Website](https://ahmedkhaledhussein.vercel.app) · [Code](https://github.com/AhmedKhaledHussein/Ahmed-Khaled-Portfolio) |
+## 02 / Expertise &nbsp; | &nbsp; مجالات العمل
 
-> **Interested in the details?** Visit my [portfolio](https://ahmedkhaledhussein.vercel.app) for project descriptions, experience, and certificates.
-
-## Let's connect | تواصل معي
-
-I'm open to conversations about software engineering, AI, web development, and collaborative projects.
-
-- **Portfolio:** [ahmedkhaledhussein.vercel.app](https://ahmedkhaledhussein.vercel.app)
-- **LinkedIn:** [linkedin.com/in/ahmedkhaledhussein](https://www.linkedin.com/in/ahmedkhaledhussein/)
-- **Email:** [Ahmed.khaaledh@gmail.com](mailto:Ahmed.khaaledh@gmail.com)
-- **WhatsApp:** [Start a chat](https://wa.me/201043263308)
-- **Instagram:** [@ahmed.khaaledh](https://www.instagram.com/ahmed.khaaledh/)
+<img src="assets/focus-pillars.png" alt="Three areas of focus: Full-Stack Engineering, Applied Intelligence, and Product Experience" width="100%" />
 
 ---
 
+## 03 / Selected work &nbsp; | &nbsp; أعمال مختارة
+
 <div align="center">
 
-**Ahmed Khaled Hussein · أحمد خالد حسين**
+<a href="https://brghr.vercel.app"><img src="assets/brghr.png" alt="BRGHR — interactive restaurant website" width="49%" /></a>
+<a href="https://aou-planner.vercel.app"><img src="assets/aou-planner.png" alt="AOU Study Planner — academic planning" width="49%" /></a>
 
-*Engineering useful technology. Designing meaningful experiences.*
+<a href="https://scented-realms.vercel.app"><img src="assets/scented-realms.png" alt="Scented Realms — fragrance e-commerce experience" width="49%" /></a>
+<a href="https://ahmedkhaledhussein.vercel.app"><img src="assets/portfolio.png" alt="Ahmed Khaled Hussein — personal portfolio" width="49%" /></a>
+
+</div>
+
+**More from the portfolio:** [Neural Vision Suite](https://ahmedkhaledhussein.vercel.app/#work) — computer-vision work exploring detection, tracking and visual analytics.
+
+**Source code:** [Ahmed Khaled Portfolio](https://github.com/AhmedKhaledHussein/Ahmed-Khaled-Portfolio) · [AOU Planner](https://github.com/AhmedKhaledHussein/aou-planner) · [More repositories](https://github.com/AhmedKhaledHussein?tab=repositories)
+
+> **Project visuals** are based on assets included in my own portfolio; please visit each project or repository for details and current availability.
+
+---
+
+## 04 / Technology &nbsp; | &nbsp; التقنيات
+
+<img src="assets/technology-stack.png" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Python, FastAPI, PostgreSQL, OpenCV, Git, Vite, Figma" width="100%" />
+
+I select technologies according to the problem — from frontend and APIs to data-backed applications and AI-enhanced interfaces.
+
+---
+
+## 05 / Engineering approach &nbsp; | &nbsp; أسلوب العمل
+
+| **01 — Understand** | **02 — Design** | **03 — Build** | **04 — Refine** |
+| :-- | :-- | :-- | :-- |
+| Define the real user problem | Create intuitive interaction | Deliver reliable, maintainable code | Test, measure and iterate |
+
+I care about the details: **performance, accessibility, clean architecture, responsive design, and purposeful motion**.
+
+---
+
+## 06 / Connect &nbsp; | &nbsp; تواصل معي
+
+I welcome conversations about **software engineering, full-stack web products, applied AI and collaboration**.
+
+<div align="center">
+
+**[WEBSITE](https://ahmedkhaledhussein.vercel.app)** &nbsp; · &nbsp; **[LINKEDIN](https://www.linkedin.com/in/ahmedkhaledhussein/)** &nbsp; · &nbsp; **[EMAIL](mailto:Ahmed.khaaledh@gmail.com)** &nbsp; · &nbsp; **[WHATSAPP](https://wa.me/201043263308)**
+
+<br/>
+
+<img src="assets/closing-ribbon.png" alt="Ahmed Khaled Hussein — Build, Learn, Create" width="100%" />
+
+<sub>Official profile of Ahmed Khaled Hussein · أحمد خالد حسين · Cairo, Egypt</sub>
 
 </div>
