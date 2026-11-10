@@ -9,10 +9,10 @@
   Computer Science Student — Arab Open University · Cairo, Egypt
 </p>
 
-<div align="center">
-  <a href="https://ahmedkhaledhussein.vercel.app"><img src="assets/btn-portfolio.png" width="44%" alt="Visit Ahmed's Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/ahmedkhaledhussein/"><img src="assets/btn-linkedin.png" width="44%" alt="Connect on LinkedIn" /></a>
-</div>
+<p align="center">
+  <a href="https://ahmedkhaledhussein.vercel.app"><strong>Portfolio</strong></a> ·
+  <a href="https://www.linkedin.com/in/ahmedkhaledhussein/"><strong>LinkedIn</strong></a>
+</p>
 
 ---
 
@@ -94,11 +94,11 @@ Four selected projects, presented as one cohesive row. Every card opens its live
 Interested in discussing software engineering, web products, or a potential collaboration? You can reach me here.
 
 <div align="center">
-  <a href="https://ahmedkhaledhussein.vercel.app"><img src="assets/btn-portfolio.png" width="44%" alt="Portfolio website" /></a>
-  <a href="https://www.linkedin.com/in/ahmedkhaledhussein/"><img src="assets/btn-linkedin.png" width="44%" alt="LinkedIn profile" /></a>
-  <br/>
-  <a href="mailto:Ahmed.khaaledh@gmail.com"><img src="assets/btn-email.png" width="44%" alt="Contact via email" /></a>
-  <a href="https://wa.me/201043263308"><img src="assets/btn-whatsapp.png" width="44%" alt="Start WhatsApp chat" /></a>
+  <a href="https://ahmedkhaledhussein.vercel.app"><img src="assets/btn-portfolio.png" width="23%" alt="Portfolio website" /></a>
+  <a href="https://www.linkedin.com/in/ahmedkhaledhussein/"><img src="assets/btn-linkedin.png" width="23%" alt="LinkedIn profile" /></a>
+  <a href="mailto:Ahmed.khaaledh@gmail.com"><img src="assets/btn-email.png" width="23%" alt="Contact via email" /></a>
+  <a href="https://wa.me/201043263308"><img src="assets/btn-whatsapp.png" width="23%" alt="Start WhatsApp chat" /></a>
+
   <br/><br/>
   <sub>Ahmed Khaled Hussein · أحمد خالد حسين · Software Engineering × Product Thinking</sub>
 </div>
