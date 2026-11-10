@@ -37,8 +37,6 @@ const ahmed = {
 
 ## 🚀 Selected Projects | مشاريعي
 
-Four selected projects, presented as one cohesive row. Every card opens its live preview.
-
 <table>
   <tr>
     <td width="25%" align="center" valign="top">
