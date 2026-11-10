@@ -40,19 +40,19 @@ const ahmed = {
 <table>
   <tr>
     <td width="25%" align="center" valign="top">
-      <a href="https://ahmedkhaledhussein.vercel.app"><img src="assets/project-card-portfolio.svg" width="100%" alt="AHMED KHALED PORTFOLIO — Personal brand and work" /></a><br/>
+      <a href="https://ahmedkhaledhussein.vercel.app"><img src="assets/project-card-portfolio-original-v6.png" width="100%" alt="AHMED KHALED PORTFOLIO — Personal brand and work" /></a><br/>
       <sub><a href="https://ahmedkhaledhussein.vercel.app">Live Preview</a> · <a href="https://github.com/AhmedKhaledHussein/Ahmed-Khaled-Portfolio">Source Code</a></sub>
     </td>
     <td width="25%" align="center" valign="top">
-      <a href="https://aou-planner.vercel.app"><img src="assets/project-card-aou.svg" width="100%" alt="AOU PLANNER — Academic planning and progress" /></a><br/>
+      <a href="https://aou-planner.vercel.app"><img src="assets/project-card-aou-original-v6.png" width="100%" alt="AOU PLANNER — Academic planning and progress" /></a><br/>
       <sub><a href="https://aou-planner.vercel.app">Live Preview</a> · <a href="https://github.com/AhmedKhaledHussein/aou-planner">Source Code</a></sub>
     </td>
     <td width="25%" align="center" valign="top">
-      <a href="https://brghr.vercel.app"><img src="assets/project-card-brghr.svg" width="100%" alt="BRGHR RESTAURANT — Bold digital dining experience" /></a><br/>
+      <a href="https://brghr.vercel.app"><img src="assets/project-card-brghr-original-v6.png" width="100%" alt="BRGHR RESTAURANT — Bold digital dining experience" /></a><br/>
       <sub><a href="https://brghr.vercel.app">Live Preview</a></sub>
     </td>
     <td width="25%" align="center" valign="top">
-      <a href="https://scented-realms.vercel.app"><img src="assets/project-card-scented.svg" width="100%" alt="SCENTED REALMS — Refined fragrance storefront" /></a><br/>
+      <a href="https://scented-realms.vercel.app"><img src="assets/project-card-scented-original-v6.png" width="100%" alt="SCENTED REALMS — Refined fragrance storefront" /></a><br/>
       <sub><a href="https://scented-realms.vercel.app">Live Preview</a></sub>
     </td>
   </tr>
