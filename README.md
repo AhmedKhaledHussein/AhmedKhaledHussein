@@ -37,43 +37,30 @@ const ahmed = {
 
 ## 🚀 Selected Projects | مشاريعي
 
-Practical work, from concept and interface design to implementation. Select a project to explore its preview or code.
+Four selected projects, presented as one cohesive row. Every card opens its live preview.
 
-### 01 · Ahmed Khaled Portfolio
+<table>
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <a href="https://ahmedkhaledhussein.vercel.app"><img src="assets/project-card-portfolio.svg" width="100%" alt="AHMED KHALED PORTFOLIO — Personal brand and work" /></a><br/>
+      <sub><a href="https://ahmedkhaledhussein.vercel.app">Live Preview</a> · <a href="https://github.com/AhmedKhaledHussein/Ahmed-Khaled-Portfolio">Source Code</a></sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://aou-planner.vercel.app"><img src="assets/project-card-aou.svg" width="100%" alt="AOU PLANNER — Academic planning and progress" /></a><br/>
+      <sub><a href="https://aou-planner.vercel.app">Live Preview</a> · <a href="https://github.com/AhmedKhaledHussein/aou-planner">Source Code</a></sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://brghr.vercel.app"><img src="assets/project-card-brghr.svg" width="100%" alt="BRGHR RESTAURANT — Bold digital dining experience" /></a><br/>
+      <sub><a href="https://brghr.vercel.app">Live Preview</a></sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://scented-realms.vercel.app"><img src="assets/project-card-scented.svg" width="100%" alt="SCENTED REALMS — Refined fragrance storefront" /></a><br/>
+      <sub><a href="https://scented-realms.vercel.app">Live Preview</a></sub>
+    </td>
+  </tr>
+</table>
 
-<a href="https://ahmedkhaledhussein.vercel.app"><img src="assets/project-portfolio.png" width="100%" alt="Ahmed Khaled Hussein portfolio interface and AK branding" /></a>
-
-My bilingual personal portfolio brings together **projects, skills, and professional background** in a responsive, interactive experience.
-
-**Stack:** React · TypeScript · TanStack Start · Tailwind CSS · Vite
-
-🌐 [Live Portfolio](https://ahmedkhaledhussein.vercel.app) · 💻 [Source Code](https://github.com/AhmedKhaledHussein/Ahmed-Khaled-Portfolio)
-
-### 02 · AOU Planner
-
-<a href="https://aou-planner.vercel.app"><img src="assets/project-aou-planner.png" width="100%" alt="AOU Planner academic planning dashboard preview" /></a>
-
-An academic planning experience for **organizing university coursework and tracking study progress**.
-
-**Framework:** Next.js
-
-🌐 [Project Preview](https://aou-planner.vercel.app) · 💻 [Source Code](https://github.com/AhmedKhaledHussein/aou-planner)
-
-### 03 · BRGHR
-
-<a href="https://brghr.vercel.app"><img src="assets/project-brghr.png" width="100%" alt="BRGHR restaurant website interface preview" /></a>
-
-A restaurant web experience focused on **visual presentation, responsive browsing, and interactive ordering flows**.
-
-🌐 [Project Preview](https://brghr.vercel.app)
-
-### 04 · Scented Realms
-
-<a href="https://scented-realms.vercel.app"><img src="assets/project-scented-realms.png" width="100%" alt="Scented Realms fragrance storefront preview" /></a>
-
-A fragrance storefront concept exploring **product discovery, elegant product presentation, and shopping-focused UI**.
-
-🌐 [Project Preview](https://scented-realms.vercel.app)
+<sub>Previews use actual project screenshots. On narrower screens, scroll the project row horizontally if needed.</sub>
 
 **More explorations:** [Neural Vision Suite and other work](https://ahmedkhaledhussein.vercel.app/#work) · [All public repositories](https://github.com/AhmedKhaledHussein?tab=repositories)
 
