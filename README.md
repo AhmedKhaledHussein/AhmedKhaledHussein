@@ -54,16 +54,6 @@ const ahmed = {
 
 **Explore my work:** [Portfolio](https://ahmedkhaledhussein.vercel.app) · [GitHub repositories](https://github.com/AhmedKhaledHussein?tab=repositories) · [Neural Vision Suite](https://ahmedkhaledhussein.vercel.app/#work)
 
-<img src="assets/section-stats.png" width="100%" alt="GitHub stats | إحصــائيات GitHub" />
-
-<div align="center">
-<img src="assets/stats-overview.svg" width="94%" alt="Recent contributions, commits, pull requests and streak, updated by GitHub Actions" />
-<br/>
-<img src="assets/stats-languages.svg" width="88%" alt="Most used languages in publicly owned repositories by bytes" />
-</div>
-
-<sub>Stats are generated from GitHub data (rolling 12 months for activity; public, owned, non-fork repositories for languages). They update after the optional workflow is enabled and successfully run. This is not a ranking of programming proficiency.</sub>
-
 <img src="assets/section-focus.png" width="100%" alt="Current focus | مــاذا أبــني؟" />
 
 - ⚡ Full-stack web applications and reliable backends
